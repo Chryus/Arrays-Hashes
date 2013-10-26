@@ -16,6 +16,8 @@ that the combined comparison operator does below
 =end
 
 #same as fruits.sort! { |f, s| s <=> f }
+# hey ruby, whenevery you see two items, compare them, and put the one further along in the 
+# alphabet first!
 #same as fruits.sort!.reverse
 
 	  
